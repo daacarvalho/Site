@@ -293,7 +293,7 @@ img {
 }
 
 .plano:last-child .plano-lista__item::before, .plano:last-child .plano__divisor{
-	background: var(--clr-pin-dark);
+	background: var(--clr-green-light);
 }
 
 @media (max-width:800px){
